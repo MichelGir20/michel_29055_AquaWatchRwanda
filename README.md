@@ -1,6 +1,6 @@
 # AquaWatch Rwanda: Rural Water Point Reliability and Maintenance Prioritization System
 
-**Student:** Michel Girinshuti | **Student ID:** 29055
+**Student:** Michel GIRINSHUTI | **Student ID:** 29055
 **Course:** INSY 8311 – Database Development with PL/SQL | **Instructor:** Eric Maniraguha
 **Academic year:** 2026–2027, Semester I
 
